@@ -1,0 +1,8 @@
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\bin\Debug\PlexureTask.dll
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\bin\Debug\PlexureTask.pdb
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\obj\Debug\PlexureTask.csprojAssemblyReference.cache
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\obj\Debug\PlexureTask.AsyncForm.resources
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\obj\Debug\PlexureTask.csproj.GenerateResource.cache
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\obj\Debug\PlexureTask.csproj.CoreCompileInputs.cache
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\obj\Debug\PlexureTask.dll
+C:\E Driver\工作\201910\20191001 Senior Net Developer AKL Plexure\PlexureTask\PlexureTask\obj\Debug\PlexureTask.pdb

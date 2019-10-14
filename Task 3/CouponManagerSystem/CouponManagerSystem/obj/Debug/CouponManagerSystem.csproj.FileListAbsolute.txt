@@ -1,0 +1,2 @@
+C:\E Driver\Luke Projects\CouponManagerSystem\CouponManagerSystem\obj\Debug\CouponManagerSystem.csprojAssemblyReference.cache
+C:\E Driver\Luke Projects\CouponManagerSystem\CouponManagerSystem\obj\Debug\CouponManagerSystem.csproj.CoreCompileInputs.cache
